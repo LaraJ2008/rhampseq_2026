@@ -1,2 +1,4 @@
-.rHistory
+.Rhistory
+.RData
+.RDataTmp
 matched_but_rare_pair_status.csv
