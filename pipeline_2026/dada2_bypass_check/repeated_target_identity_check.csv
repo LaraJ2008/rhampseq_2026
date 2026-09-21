@@ -1,0 +1,19 @@
+target_id,n_reads,n_comparisons,min_pident,mean_pident,max_pident,interpretation
+RH.51338FA06EDB4F0Z0Z,8,28,41.9,75.9,99.3,Substantial divergence -- consistent with primer catching a DIFFERENT related P450
+RH.8B25A056ABC1444Z0Z,3,3,45.3,63.4,98,Substantial divergence -- consistent with primer catching a DIFFERENT related P450
+RH.DDB83AFF97C94C6Z0Z,12,66,47,80,99.3,Substantial divergence -- consistent with primer catching a DIFFERENT related P450
+RH.E04EE94198274F7Z0Z,3,3,52.5,68.7,99.3,Substantial divergence -- consistent with primer catching a DIFFERENT related P450
+RH.CA1E204B0C0842DZ0Z,2,1,90.1,90.1,90.1,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.27578A9A85FA4A3Z0Z,3,3,92.7,95.1,99.3,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.0BD19D1A26A74EBZ0Z,16,120,94.7,96.7,98.7,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.2A8AD21024974C0Z0Z,3,3,95.4,96.9,99.3,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.517A9FBA2B494D5Z0Z,3,3,96.7,97.4,98,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.0096A141894D447Z0Z,2,1,96.7,96.7,96.7,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.0C6EF86AB29A422Z0Z,2,1,96.7,96.7,96.7,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.B9EF730EBE6C436Z0Z,5,10,97.4,98.7,99.3,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.7CE39E25906745AZ0Z,3,3,97.4,98.2,99.3,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.2AFFFBA0E81C482Z0Z,11,55,98,98.8,99.3,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.DE543226C201437Z0Z,2,1,98,98,98,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.5F6424ABBC3C47BZ0Z,2,1,98,98,98,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.6408CE975B5340AZ0Z,2,1,99.3,99.3,99.3,"High identity throughout -- likely real strain-level SNP diversity, same gene"
+RH.E253263309B742FZ0Z,2,1,99.3,99.3,99.3,"High identity throughout -- likely real strain-level SNP diversity, same gene"

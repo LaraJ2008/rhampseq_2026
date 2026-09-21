@@ -1,0 +1,22 @@
+target_id,demux_reads,pileup_reads,interpretation
+RH.C597F0BA65D4481Z0Z,239,25094,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.F8075AAECB0140EZ0Z,50,18642,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.517A9FBA2B494D5Z0Z,3425,17973,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.44DCEC943BED412Z0Z,7396,16548,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.0C6EF86AB29A422Z0Z,1772,3883,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.1DB5008EB8D746AZ0Z,13,3808,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.78B83B8D6A224B1Z0Z,2300,2402,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.23246278E0E74E6Z0Z,2,2101,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.BCDAADAE5A244DDZ0Z,451,1270,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.04A0205BEA6C49EZ0Z,472,959,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.BA6FBF5690DA414Z0Z,1,152,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.1ED162FCE898487Z0Z,170,150,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.E50C44E6F0174B8Z0Z,308,110,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.0217D7856D1B4F3Z0Z,7,15,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.8F107B8442F24A3Z0Z,8,7,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.300DF134D97F45BZ0Z,7,2,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.D78133F7DC3D4EBZ0Z,18,1,Caulobacter reads genuinely present -- original 'zero hits' was a classification problem
+RH.094E5466924B45EZ0Z,528,0,Unexpected pattern -- inspect manually
+RH.33AEBDC95C5A43AZ0Z,194,0,Unexpected pattern -- inspect manually
+RH.1178978C1B124F7Z0Z,106,0,Unexpected pattern -- inspect manually
+RH.A9EEDC62F48D4DAZ0Z,24,0,Unexpected pattern -- inspect manually

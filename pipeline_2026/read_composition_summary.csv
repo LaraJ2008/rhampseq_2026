@@ -1,0 +1,10 @@
+group,category,count,pct
+"Abundant
+(matches primer)",Abundant (≥5 copies),8666650,55.142551192004
+"Abundant
+(no primer match)",Abundant (≥5 copies),8846,0.0562836860660656
+Rare: matched pair,Rare (<5 copies),684237,4.35353611833445
+Rare: chimera,Rare (<5 copies),2505226,15.9397867633445
+Rare: single-primed (F only),Rare (<5 copies),1040771,6.6220244438916
+Rare: single-primed (R only),Rare (<5 copies),425985,2.71037825105731
+Rare: no primer match,Rare (<5 copies),2385095,15.1754395453021

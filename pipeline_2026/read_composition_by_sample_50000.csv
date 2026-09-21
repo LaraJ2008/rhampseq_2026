@@ -1,0 +1,253 @@
+sample,group,count,treatment,dose,replicate
+as10-1,Abundant (matches primer),285197,as,10,1
+as10-2,Abundant (matches primer),177371,as,10,2
+as10-3,Abundant (matches primer),201639,as,10,3
+as15-1,Abundant (matches primer),311472,as,15,1
+as15-2,Abundant (matches primer),230820,as,15,2
+as15-3,Abundant (matches primer),318577,as,15,3
+as20-1,Abundant (matches primer),152672,as,20,1
+as20-2,Abundant (matches primer),340721,as,20,2
+as20-3,Abundant (matches primer),188811,as,20,3
+as25-1,Abundant (matches primer),181156,as,25,1
+as25-2,Abundant (matches primer),234957,as,25,2
+as25-3,Abundant (matches primer),265582,as,25,3
+as3-1,Abundant (matches primer),138975,as,3,1
+as3-2,Abundant (matches primer),109085,as,3,2
+as3-3,Abundant (matches primer),190696,as,3,3
+as30-2,Abundant (matches primer),17950,as,30,2
+as30-3,Abundant (matches primer),112357,as,30,3
+as7-1,Abundant (matches primer),35000,as,7,1
+as7-2,Abundant (matches primer),24892,as,7,2
+as7-3,Abundant (matches primer),35557,as,7,3
+sd10-1,Abundant (matches primer),293253,sd,10,1
+sd10-2,Abundant (matches primer),250035,sd,10,2
+sd10-3,Abundant (matches primer),229592,sd,10,3
+sd15-2,Abundant (matches primer),343210,sd,15,2
+sd20-1,Abundant (matches primer),298876,sd,20,1
+sd20-2,Abundant (matches primer),503717,sd,20,2
+sd25-1,Abundant (matches primer),284694,sd,25,1
+sd25-2,Abundant (matches primer),191554,sd,25,2
+sd25-3,Abundant (matches primer),466999,sd,25,3
+sd3-1,Abundant (matches primer),343478,sd,3,1
+sd3-2,Abundant (matches primer),490038,sd,3,2
+sd30-1,Abundant (matches primer),293693,sd,30,1
+sd30-2,Abundant (matches primer),213370,sd,30,2
+sd7-1,Abundant (matches primer),325389,sd,7,1
+sd7-2,Abundant (matches primer),291546,sd,7,2
+sd7-3,Abundant (matches primer),264524,sd,7,3
+as10-1,Abundant (no primer match),211,as,10,1
+as10-2,Abundant (no primer match),93,as,10,2
+as10-3,Abundant (no primer match),156,as,10,3
+as15-1,Abundant (no primer match),410,as,15,1
+as15-2,Abundant (no primer match),70,as,15,2
+as15-3,Abundant (no primer match),101,as,15,3
+as20-1,Abundant (no primer match),111,as,20,1
+as20-2,Abundant (no primer match),98,as,20,2
+as20-3,Abundant (no primer match),71,as,20,3
+as25-1,Abundant (no primer match),111,as,25,1
+as25-2,Abundant (no primer match),147,as,25,2
+as25-3,Abundant (no primer match),270,as,25,3
+as3-1,Abundant (no primer match),166,as,3,1
+as3-2,Abundant (no primer match),230,as,3,2
+as3-3,Abundant (no primer match),229,as,3,3
+as30-2,Abundant (no primer match),16,as,30,2
+as30-3,Abundant (no primer match),556,as,30,3
+as7-1,Abundant (no primer match),112,as,7,1
+as7-2,Abundant (no primer match),81,as,7,2
+as7-3,Abundant (no primer match),29,as,7,3
+sd10-1,Abundant (no primer match),173,sd,10,1
+sd10-2,Abundant (no primer match),100,sd,10,2
+sd10-3,Abundant (no primer match),369,sd,10,3
+sd15-2,Abundant (no primer match),117,sd,15,2
+sd20-1,Abundant (no primer match),160,sd,20,1
+sd20-2,Abundant (no primer match),92,sd,20,2
+sd25-1,Abundant (no primer match),86,sd,25,1
+sd25-2,Abundant (no primer match),62,sd,25,2
+sd25-3,Abundant (no primer match),53,sd,25,3
+sd3-1,Abundant (no primer match),1783,sd,3,1
+sd3-2,Abundant (no primer match),1467,sd,3,2
+sd30-1,Abundant (no primer match),62,sd,30,1
+sd30-2,Abundant (no primer match),54,sd,30,2
+sd7-1,Abundant (no primer match),197,sd,7,1
+sd7-2,Abundant (no primer match),432,sd,7,2
+sd7-3,Abundant (no primer match),229,sd,7,3
+as10-1,Rare: matched pair,25302,as,10,1
+as10-2,Rare: matched pair,16758,as,10,2
+as10-3,Rare: matched pair,18916,as,10,3
+as15-1,Rare: matched pair,25093,as,15,1
+as15-2,Rare: matched pair,21665,as,15,2
+as15-3,Rare: matched pair,25179,as,15,3
+as20-1,Rare: matched pair,15365,as,20,1
+as20-2,Rare: matched pair,28535,as,20,2
+as20-3,Rare: matched pair,17724,as,20,3
+as25-1,Rare: matched pair,15437,as,25,1
+as25-2,Rare: matched pair,21430,as,25,2
+as25-3,Rare: matched pair,23757,as,25,3
+as3-1,Rare: matched pair,15453,as,3,1
+as3-2,Rare: matched pair,12242,as,3,2
+as3-3,Rare: matched pair,19165,as,3,3
+as30-2,Rare: matched pair,3537,as,30,2
+as30-3,Rare: matched pair,12873,as,30,3
+as7-1,Rare: matched pair,5590,as,7,1
+as7-2,Rare: matched pair,4523,as,7,2
+as7-3,Rare: matched pair,5811,as,7,3
+sd10-1,Rare: matched pair,21317,sd,10,1
+sd10-2,Rare: matched pair,18766,sd,10,2
+sd10-3,Rare: matched pair,17423,sd,10,3
+sd15-2,Rare: matched pair,24574,sd,15,2
+sd20-1,Rare: matched pair,21455,sd,20,1
+sd20-2,Rare: matched pair,29356,sd,20,2
+sd25-1,Rare: matched pair,21070,sd,25,1
+sd25-2,Rare: matched pair,15525,sd,25,2
+sd25-3,Rare: matched pair,28666,sd,25,3
+sd3-1,Rare: matched pair,22790,sd,3,1
+sd3-2,Rare: matched pair,28649,sd,3,2
+sd30-1,Rare: matched pair,20839,sd,30,1
+sd30-2,Rare: matched pair,16308,sd,30,2
+sd7-1,Rare: matched pair,22096,sd,7,1
+sd7-2,Rare: matched pair,21230,sd,7,2
+sd7-3,Rare: matched pair,19765,sd,7,3
+as10-1,Rare: chimera,131882,as,10,1
+as10-2,Rare: chimera,76341,as,10,2
+as10-3,Rare: chimera,106497,as,10,3
+as15-1,Rare: chimera,103297,as,15,1
+as15-2,Rare: chimera,43965,as,15,2
+as15-3,Rare: chimera,96798,as,15,3
+as20-1,Rare: chimera,48316,as,20,1
+as20-2,Rare: chimera,100890,as,20,2
+as20-3,Rare: chimera,65147,as,20,3
+as25-1,Rare: chimera,79619,as,25,1
+as25-2,Rare: chimera,70565,as,25,2
+as25-3,Rare: chimera,142061,as,25,3
+as3-1,Rare: chimera,143530,as,3,1
+as3-2,Rare: chimera,209402,as,3,2
+as3-3,Rare: chimera,137144,as,3,3
+as30-2,Rare: chimera,30551,as,30,2
+as30-3,Rare: chimera,191369,as,30,3
+as7-1,Rare: chimera,130353,as,7,1
+as7-2,Rare: chimera,214778,as,7,2
+as7-3,Rare: chimera,119744,as,7,3
+sd10-1,Rare: chimera,5458,sd,10,1
+sd10-2,Rare: chimera,5792,sd,10,2
+sd10-3,Rare: chimera,7056,sd,10,3
+sd15-2,Rare: chimera,10197,sd,15,2
+sd20-1,Rare: chimera,4677,sd,20,1
+sd20-2,Rare: chimera,14619,sd,20,2
+sd25-1,Rare: chimera,6108,sd,25,1
+sd25-2,Rare: chimera,7304,sd,25,2
+sd25-3,Rare: chimera,11218,sd,25,3
+sd3-1,Rare: chimera,26141,sd,3,1
+sd3-2,Rare: chimera,20963,sd,3,2
+sd30-1,Rare: chimera,17176,sd,30,1
+sd30-2,Rare: chimera,25164,sd,30,2
+sd7-1,Rare: chimera,38096,sd,7,1
+sd7-2,Rare: chimera,33060,sd,7,2
+sd7-3,Rare: chimera,26049,sd,7,3
+as10-1,Rare: single-primed (F only),48739,as,10,1
+as10-2,Rare: single-primed (F only),11022,as,10,2
+as10-3,Rare: single-primed (F only),18969,as,10,3
+as15-1,Rare: single-primed (F only),34358,as,15,1
+as15-2,Rare: single-primed (F only),10209,as,15,2
+as15-3,Rare: single-primed (F only),17493,as,15,3
+as20-1,Rare: single-primed (F only),14187,as,20,1
+as20-2,Rare: single-primed (F only),18821,as,20,2
+as20-3,Rare: single-primed (F only),12783,as,20,3
+as25-1,Rare: single-primed (F only),29308,as,25,1
+as25-2,Rare: single-primed (F only),12703,as,25,2
+as25-3,Rare: single-primed (F only),23849,as,25,3
+as3-1,Rare: single-primed (F only),47540,as,3,1
+as3-2,Rare: single-primed (F only),119836,as,3,2
+as3-3,Rare: single-primed (F only),44085,as,3,3
+as30-2,Rare: single-primed (F only),6687,as,30,2
+as30-3,Rare: single-primed (F only),73943,as,30,3
+as7-1,Rare: single-primed (F only),205829,as,7,1
+as7-2,Rare: single-primed (F only),80560,as,7,2
+as7-3,Rare: single-primed (F only),40207,as,7,3
+sd10-1,Rare: single-primed (F only),6037,sd,10,1
+sd10-2,Rare: single-primed (F only),5458,sd,10,2
+sd10-3,Rare: single-primed (F only),5724,sd,10,3
+sd15-2,Rare: single-primed (F only),8379,sd,15,2
+sd20-1,Rare: single-primed (F only),5438,sd,20,1
+sd20-2,Rare: single-primed (F only),11686,sd,20,2
+sd25-1,Rare: single-primed (F only),5986,sd,25,1
+sd25-2,Rare: single-primed (F only),5955,sd,25,2
+sd25-3,Rare: single-primed (F only),10127,sd,25,3
+sd3-1,Rare: single-primed (F only),14417,sd,3,1
+sd3-2,Rare: single-primed (F only),13729,sd,3,2
+sd30-1,Rare: single-primed (F only),10662,sd,30,1
+sd30-2,Rare: single-primed (F only),12272,sd,30,2
+sd7-1,Rare: single-primed (F only),18424,sd,7,1
+sd7-2,Rare: single-primed (F only),16815,sd,7,2
+sd7-3,Rare: single-primed (F only),14885,sd,7,3
+as10-1,Rare: single-primed (R only),11277,as,10,1
+as10-2,Rare: single-primed (R only),4429,as,10,2
+as10-3,Rare: single-primed (R only),7941,as,10,3
+as15-1,Rare: single-primed (R only),8756,as,15,1
+as15-2,Rare: single-primed (R only),4400,as,15,2
+as15-3,Rare: single-primed (R only),6333,as,15,3
+as20-1,Rare: single-primed (R only),4489,as,20,1
+as20-2,Rare: single-primed (R only),8011,as,20,2
+as20-3,Rare: single-primed (R only),5305,as,20,3
+as25-1,Rare: single-primed (R only),13458,as,25,1
+as25-2,Rare: single-primed (R only),6830,as,25,2
+as25-3,Rare: single-primed (R only),12082,as,25,3
+as3-1,Rare: single-primed (R only),19135,as,3,1
+as3-2,Rare: single-primed (R only),59666,as,3,2
+as3-3,Rare: single-primed (R only),16241,as,3,3
+as30-2,Rare: single-primed (R only),4803,as,30,2
+as30-3,Rare: single-primed (R only),29710,as,30,3
+as7-1,Rare: single-primed (R only),59929,as,7,1
+as7-2,Rare: single-primed (R only),25132,as,7,2
+as7-3,Rare: single-primed (R only),16973,as,7,3
+sd10-1,Rare: single-primed (R only),3975,sd,10,1
+sd10-2,Rare: single-primed (R only),3952,sd,10,2
+sd10-3,Rare: single-primed (R only),3634,sd,10,3
+sd15-2,Rare: single-primed (R only),4664,sd,15,2
+sd20-1,Rare: single-primed (R only),4796,sd,20,1
+sd20-2,Rare: single-primed (R only),6382,sd,20,2
+sd25-1,Rare: single-primed (R only),4296,sd,25,1
+sd25-2,Rare: single-primed (R only),4192,sd,25,2
+sd25-3,Rare: single-primed (R only),5123,sd,25,3
+sd3-1,Rare: single-primed (R only),7099,sd,3,1
+sd3-2,Rare: single-primed (R only),7348,sd,3,2
+sd30-1,Rare: single-primed (R only),6266,sd,30,1
+sd30-2,Rare: single-primed (R only),6460,sd,30,2
+sd7-1,Rare: single-primed (R only),8468,sd,7,1
+sd7-2,Rare: single-primed (R only),7488,sd,7,2
+sd7-3,Rare: single-primed (R only),7110,sd,7,3
+as10-1,Rare: no primer match,64408,as,10,1
+as10-2,Rare: no primer match,36225,as,10,2
+as10-3,Rare: no primer match,58332,as,10,3
+as15-1,Rare: no primer match,55073,as,15,1
+as15-2,Rare: no primer match,36826,as,15,2
+as15-3,Rare: no primer match,53489,as,15,3
+as20-1,Rare: no primer match,42451,as,20,1
+as20-2,Rare: no primer match,57646,as,20,2
+as20-3,Rare: no primer match,51761,as,20,3
+as25-1,Rare: no primer match,75027,as,25,1
+as25-2,Rare: no primer match,43019,as,25,2
+as25-3,Rare: no primer match,81223,as,25,3
+as3-1,Rare: no primer match,128689,as,3,1
+as3-2,Rare: no primer match,175897,as,3,2
+as3-3,Rare: no primer match,109225,as,3,3
+as30-2,Rare: no primer match,43393,as,30,2
+as30-3,Rare: no primer match,157781,as,30,3
+as7-1,Rare: no primer match,158869,as,7,1
+as7-2,Rare: no primer match,176081,as,7,2
+as7-3,Rare: no primer match,112276,as,7,3
+sd10-1,Rare: no primer match,22804,sd,10,1
+sd10-2,Rare: no primer match,21840,sd,10,2
+sd10-3,Rare: no primer match,20315,sd,10,3
+sd15-2,Rare: no primer match,26320,sd,15,2
+sd20-1,Rare: no primer match,34442,sd,20,1
+sd20-2,Rare: no primer match,34228,sd,20,2
+sd25-1,Rare: no primer match,28523,sd,25,1
+sd25-2,Rare: no primer match,25738,sd,25,2
+sd25-3,Rare: no primer match,23437,sd,25,3
+sd3-1,Rare: no primer match,55710,sd,3,1
+sd3-2,Rare: no primer match,47719,sd,3,2
+sd30-1,Rare: no primer match,51088,sd,30,1
+sd30-2,Rare: no primer match,42980,sd,30,2
+sd7-1,Rare: no primer match,58187,sd,7,1
+sd7-2,Rare: no primer match,51964,sd,7,2
+sd7-3,Rare: no primer match,44419,sd,7,3
